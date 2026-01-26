@@ -1,4 +1,4 @@
-# Machine Learning Portfolio Projects
+# DataScience Internship Projects
 
 ## 📋 Projects Overview
 
